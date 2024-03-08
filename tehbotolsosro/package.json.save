@@ -1,4 +1,4 @@
-{
+
   "name": "tehbotol",
   "version": "1.1.4",
   "private": true,
@@ -26,8 +26,7 @@
   },
   "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
   "main": "npm publish",
-  "repository": {
-    "type": "git",
+  "repository": {    "type": "git",
     "url": "git+https://github.com/Alexanz01/tehbotol.git"
   },
   "keywords": [
